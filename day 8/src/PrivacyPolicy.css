@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .privacy-policy section {
+    margin-bottom: 20px;
+  }
+  
+  .privacy-policy h2 {
+    margin-bottom: 10px;
+  }
+  
