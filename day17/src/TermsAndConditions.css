@@ -1,0 +1,26 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .terms-and-conditions {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .terms-and-conditions section {
+    margin-bottom: 20px;
+  }
+  
+  .terms-and-conditions h2 {
+    margin-bottom: 10px;
+  }
+  
+  
